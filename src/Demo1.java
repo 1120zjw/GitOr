@@ -4,5 +4,9 @@ public class Demo1 {
     }
     public void me(){
         System.out.println("youme");
+        bi();
+    }
+    public void bi(){
+        System.out.println("no");
     }
 }
