@@ -4,9 +4,9 @@ public class Demo1 {
     }
     public void me(){
         System.out.println("youme");
-        bi();
+        bit();
     }
-    public void bi(){
+    public void bit(){
         System.out.println("no");
     }
 }
